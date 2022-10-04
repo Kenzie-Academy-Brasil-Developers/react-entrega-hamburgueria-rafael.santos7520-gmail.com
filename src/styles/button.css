@@ -1,0 +1,30 @@
+
+.button-green {
+  height: 40px;
+  width: 110px;
+  font-weight: 600;
+
+  border-radius: 8px;
+  padding: 0px 20px 0px 20px;
+
+  background-color: var(--Color-primary);
+  color: var(--Color-White);
+  box-sizing: border-box;
+
+  transition: ease-in 0.3s;
+}
+.button-green:hover {
+    background-color: var(--Color-primary-50);
+    
+}
+.btnAllRemove{
+  width: 100%;
+  background-color:var(--Grey-20);
+  height: 50px;
+  border-radius: 8px;
+  font-weight: 600;
+  color: var(--Grey-50);
+  
+}
+
+
